@@ -1,0 +1,109 @@
+#facebookIcon{
+  color:rgb(59,89,163);
+}
+
+#githubIcon{
+  color:rgb(102,43,129);
+}
+
+#linkedinIcon{
+  color:rgb(0,127,178);
+}
+
+#youTubeIcon{
+ color:rgb(187, 0, 0);
+}
+
+
+.block{
+  background-color:black;
+  opacity:.7;
+  padding:10px;
+  width:60%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:5%;
+  
+}
+.nav-pills{
+  font-size:2.0em;
+  background-color:black;
+  margin-bottom:5%;
+
+  
+}
+body{
+  background-color:white;
+  font-family:lobster;
+  color:white;
+}
+h1{
+  padding:0;
+   margin: 0px;
+  font-size:5.0em;
+  
+  }
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:blue;
+  font-size:1.7em;
+}
+
+.pageOne{
+  background:url("http://scienceblogs.com/chaoticutopia/wp-content/blogs.dir/393/files/2012/04/i-4f7d179030c38241b40eb95e359cbcf8-sunsetfrsm.jpg");
+  background-size:cover;
+  padding-bottom:10%;
+}
+.pageTwo{
+  background:url("https://wallpaperscraft.com/image/dota_2_galaxy_style_logo_94038_2048x1148.jpg");
+  
+  background-size:cover;
+padding-bottom:10%;
+  padding-top:5%;
+  
+}
+.pageThree{
+  background:url("http://moheban-ahlebeit.com/images/Blue-Wallpaper-Hd/Blue-Wallpaper-Hd-24.jpg");
+  background-size:cover;
+   padding-bottom:10%;
+  padding-top:5%;
+}
+.pageFour{
+  background:url("http://scienceblogs.com/chaoticutopia/wp-content/blogs.dir/393/files/2012/04/i-4f7d179030c38241b40eb95e359cbcf8-sunsetfrsm.jpg");
+  background-size:cover;
+  padding-top:5%;
+ 
+  
+}
+
+
+p{
+  font-size:2.0em;
+}
+.photo1{
+  height:300px;
+  border-radius:2%;
+}
+
+.photo2{
+  height:450px;
+  width:550px;
+}
+
+.paddingPort{
+  padding-bottom:2%;
+  
+}
+  .paddingBTN{
+   width:150px;
+  margin-bottom:25px;
+}
+  .footer{
+  background-color:black;
+}
+  
+.footer p{
+  font-size:15px;
+  
+}
